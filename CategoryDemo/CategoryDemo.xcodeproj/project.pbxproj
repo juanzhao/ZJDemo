@@ -114,7 +114,6 @@
 		235E928A201EC60A00637B69 /* CategoryDemo */ = {
 			isa = PBXGroup;
 			children = (
-				235E92C5201EFD1300637B69 /* Model */,
 				235E92BD201EFB8200637B69 /* Cell */,
 				235E92BF201EFB8300637B69 /* VC */,
 				235E92BE201EFB8300637B69 /* View */,
@@ -176,13 +175,6 @@
 				235E928F201EC60A00637B69 /* ViewController.m */,
 			);
 			path = VC;
-			sourceTree = "<group>";
-		};
-		235E92C5201EFD1300637B69 /* Model */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
